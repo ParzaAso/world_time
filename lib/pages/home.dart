@@ -39,7 +39,6 @@ class _HomeState extends State<Home> {
                     data = {
                       'timeI': result['timeI'],
                       'locationI': result['locationI'],
-                      
                       'flagI': result['flagI'],
                       'isDayTime': result['isDayTime'],
 
